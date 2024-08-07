@@ -4,23 +4,17 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-1" value="redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-4" value="采样" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="150" width="430" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-2" value="dcdb" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-5" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="130" width="80" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-3" value="graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="kFTHl2-s5qn_c9RKPhkk-1" value="过滤" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="440" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-4" value="计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="320" width="430" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-5" value="kafka" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="210" width="430" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="nj5_bVLEx2ZWJZdb6SjX-6" value="控制面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="210" width="90" height="280" as="geometry" />
+        <mxCell id="kFTHl2-s5qn_c9RKPhkk-2" value="聚合" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="440" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
