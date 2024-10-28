@@ -42,17 +42,13 @@
         <mxCell id="udA4VViUeGQFsnBk43un-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="udA4VViUeGQFsnBk43un-3">
           <mxGeometry x="118.5" y="30" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="udA4VViUeGQFsnBk43un-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="udA4VViUeGQFsnBk43un-3" source="udA4VViUeGQFsnBk43un-30" target="udA4VViUeGQFsnBk43un-32">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="udA4VViUeGQFsnBk43un-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="udA4VViUeGQFsnBk43un-3" source="udA4VViUeGQFsnBk43un-30" target="udA4VViUeGQFsnBk43un-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="143.5" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-30" value="获取任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="udA4VViUeGQFsnBk43un-3">
           <mxGeometry x="83.5" y="130" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="udA4VViUeGQFsnBk43un-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="udA4VViUeGQFsnBk43un-3" source="udA4VViUeGQFsnBk43un-32" target="udA4VViUeGQFsnBk43un-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="udA4VViUeGQFsnBk43un-32" value="组装任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="udA4VViUeGQFsnBk43un-3">
-          <mxGeometry x="83.5" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="udA4VViUeGQFsnBk43un-3" source="udA4VViUeGQFsnBk43un-34" target="udA4VViUeGQFsnBk43un-37">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +117,7 @@
             <mxPoint x="710" y="900" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="udA4VViUeGQFsnBk43un-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.025;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="udA4VViUeGQFsnBk43un-64" target="udA4VViUeGQFsnBk43un-57">
+        <mxCell id="udA4VViUeGQFsnBk43un-58" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.983;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="udA4VViUeGQFsnBk43un-64" target="udA4VViUeGQFsnBk43un-57">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="748.7009857357048" y="950.1110683453644" as="sourcePoint" />
           </mxGeometry>
