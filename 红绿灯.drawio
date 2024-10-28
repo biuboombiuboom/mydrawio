@@ -73,7 +73,7 @@
           <mxGeometry x="797" width="140" height="540" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-43" value="红绿灯指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="udA4VViUeGQFsnBk43un-36">
-          <mxGeometry x="10" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="udA4VViUeGQFsnBk43un-1" source="udA4VViUeGQFsnBk43un-9" target="udA4VViUeGQFsnBk43un-26">
           <mxGeometry relative="1" as="geometry" />
