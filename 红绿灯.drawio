@@ -184,6 +184,9 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-13" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="udA4VViUeGQFsnBk43un-65" target="MTmKd3EXbOCD9lzJi4kF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-65" value="数据源" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="957" y="985" width="120" height="80" as="geometry" />
         </mxCell>
@@ -254,7 +257,10 @@
           <mxGeometry x="1180" y="960" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-10" value="延迟" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="1065" width="80" height="80" as="geometry" />
+          <mxGeometry x="1180" y="1089" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-12" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="1140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
