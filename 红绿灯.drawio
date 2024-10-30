@@ -152,6 +152,11 @@
             <mxPoint x="530" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.363;entryY=0.063;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="udA4VViUeGQFsnBk43un-61" target="MTmKd3EXbOCD9lzJi4kF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-61" value="规则" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="364" y="775" width="120" height="80" as="geometry" />
         </mxCell>
@@ -174,7 +179,7 @@
           <mxGeometry x="180" y="895" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-72" value="报警" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="364" y="895" width="80" height="80" as="geometry" />
+          <mxGeometry x="310" y="910" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-75" value="名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="620" width="80" height="80" as="geometry" />
@@ -225,7 +230,10 @@
           <mxGeometry x="1140" y="825" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-3" value="节点ID" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="500" y="890" width="80" height="80" as="geometry" />
+          <mxGeometry x="520" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-5" value="报警名称" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="960" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
