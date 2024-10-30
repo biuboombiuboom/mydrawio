@@ -322,17 +322,23 @@
             <mxPoint x="1813" y="726" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MTmKd3EXbOCD9lzJi4kF-30" target="MTmKd3EXbOCD9lzJi4kF-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-30" value="查询结果" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1780" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-31" value="QL" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2000" y="650" width="80" height="80" as="geometry" />
+          <mxGeometry x="1970" y="750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-33" value="规则名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1690" y="765" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-37" value="指标值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="790" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-38" value="指标时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
