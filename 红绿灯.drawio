@@ -278,11 +278,21 @@
             <mxPoint x="1320" y="1100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTmKd3EXbOCD9lzJi4kF-15" target="MTmKd3EXbOCD9lzJi4kF-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1230" y="1025" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTmKd3EXbOCD9lzJi4kF-15" target="MTmKd3EXbOCD9lzJi4kF-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1440" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-15" value="红绿灯指标" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1290" y="985" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-16" value="指标值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="990" width="80" height="80" as="geometry" />
+          <mxGeometry x="1510" y="975" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-18" value="节点ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1490" y="1110" width="80" height="80" as="geometry" />
@@ -291,7 +301,13 @@
           <mxGeometry x="1350" y="1169" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-25" value="query" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1130" width="80" height="80" as="geometry" />
+          <mxGeometry x="1190" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-28" value="阈值" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MTmKd3EXbOCD9lzJi4kF-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="880" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
