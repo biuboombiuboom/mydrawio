@@ -131,7 +131,7 @@
           <mxGeometry x="760" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-57" value="纬度" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="810" y="775" width="80" height="80" as="geometry" />
+          <mxGeometry x="870" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-59" value="聚合窗口" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="850" y="670" width="80" height="80" as="geometry" />
@@ -188,7 +188,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-65" value="数据源" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="985" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="920" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-66" value="指标类型" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="860" width="80" height="80" as="geometry" />
@@ -197,7 +197,7 @@
           <mxGeometry x="180" y="895" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-72" value="报警" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="910" width="80" height="80" as="geometry" />
+          <mxGeometry x="320" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-75" value="名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="430" y="620" width="80" height="80" as="geometry" />
@@ -232,7 +232,7 @@
         <mxCell id="udA4VViUeGQFsnBk43un-80" value="计划执行时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="660" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="udA4VViUeGQFsnBk43un-82" value="最大延迟时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="udA4VViUeGQFsnBk43un-82" value="任务名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1390" y="750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="udA4VViUeGQFsnBk43un-84" value="是否报警" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -251,16 +251,16 @@
           <mxGeometry x="240" y="750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-5" value="报警名称" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="430" y="960" width="80" height="80" as="geometry" />
+          <mxGeometry x="430" y="970" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-8" value="url" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="970" y="1000" width="80" height="80" as="geometry" />
+          <mxGeometry x="790" y="1030" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-10" value="延迟" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1140" width="80" height="80" as="geometry" />
+          <mxGeometry x="700" y="1090" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-12" value="headers" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="1140" width="80" height="80" as="geometry" />
+          <mxGeometry x="550" y="1100" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MTmKd3EXbOCD9lzJi4kF-17" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MTmKd3EXbOCD9lzJi4kF-15" target="MTmKd3EXbOCD9lzJi4kF-16">
           <mxGeometry relative="1" as="geometry" />
