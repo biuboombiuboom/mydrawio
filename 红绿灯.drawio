@@ -352,37 +352,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-3" value="任务日志" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1830" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="1830" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-4" value="执行时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1740" y="505" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-6" value="任务构建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1850" y="500" width="80" height="80" as="geometry" />
+          <mxGeometry x="1850" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-8" value="任务名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1988" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="1980" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-10" value="数据源ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2068" y="555" width="80" height="80" as="geometry" />
+          <mxGeometry x="2080" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-12" value="queryql" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2080" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="-96L02HhbApQWErCHC5u-15" value="value" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="-96L02HhbApQWErCHC5u-15" value="执行url" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2028" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-19" value="执行结果" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="660" width="80" height="80" as="geometry" />
+          <mxGeometry x="1654" y="700" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-22" value="规则ID" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1860" y="860" width="80" height="80" as="geometry" />
+          <mxGeometry x="1890" y="855" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-96L02HhbApQWErCHC5u-23" value="执行状态" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="810" width="80" height="80" as="geometry" />
+          <mxGeometry x="1740" y="830" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qHbyKnd21BFSJlRSOj-A-3" value="结束时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1620" y="555" width="80" height="80" as="geometry" />
+          <mxGeometry x="1640" y="570" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
